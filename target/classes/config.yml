@@ -1,4 +1,5 @@
 # Determines how hard blocks will be thrown. Higher = Stronger!
+# Going above ~3 is not recommended.
 # default: '0.7'
 throw_mult: '0.7'
 # Determines whether the falling blocks will break into an item if it cannot be placed.
