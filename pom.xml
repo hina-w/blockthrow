@@ -47,7 +47,7 @@
                 <artifactId>maven-antrun-plugin</artifactId>
                 <configuration>
                     <tasks>
-                        <copy file="target/blockthrow-1.0-SNAPSHOT.jar" todir="D:\eclipse\celestial_skies\blockthrow"/>
+                        <copy file="target/blockthrow-1.0-SNAPSHOT.jar" todir=""/>
                     </tasks>
                 </configuration>
                 <executions>
