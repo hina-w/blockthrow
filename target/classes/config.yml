@@ -1,0 +1,9 @@
+# Determines how hard blocks will be thrown. Higher = Stronger!
+# default: '0.7'
+throw_mult: '0.7'
+# Determines whether the falling blocks will break into an item if it cannot be placed.
+# default: false
+enable_drops: false
+# Determines whether the falling blocks will hurt entities they land on. (Same behaviour as Anvils)
+# default: true
+enable_damage: true
